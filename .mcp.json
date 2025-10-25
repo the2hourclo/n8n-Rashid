@@ -7,8 +7,8 @@
         "MCP_MODE": "stdio",
         "LOG_LEVEL": "error",
         "DISABLE_CONSOLE_OUTPUT": "true",
-        "N8N_API_URL": "https://your-n8n-instance.com",
-        "N8N_API_KEY": "your-api-key"
+        "N8N_API_URL": "https://twohourman.app.n8n.cloud/",
+        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3MjdhODZhOC00MjY4LTQzODQtOWM1ZC03YTc5YmFhYzBhZTUiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzYxMzgwMzMxfQ.spmHXov_9KysfrDU45oaVL4XVH0_OQdpOxkHs_GVvsI"
       }
     }
   }
